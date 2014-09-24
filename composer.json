@@ -1,0 +1,7 @@
+{
+    "require": {
+        "andreyknupp/smtp-client": "dev-master",
+        "hoa/mail": "~0.0",
+        "hoa/socket": "~0.0"
+    }
+}
